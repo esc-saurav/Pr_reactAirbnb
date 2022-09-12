@@ -10,11 +10,11 @@ function App() {
   });
 
   return (
-    <div>
+    <>
       <Navbar />
       <Maincontents />
       <section className="cards-list">{cards}</section>
-    </div>
+    </>
   );
 }
 
