@@ -1,5 +1,4 @@
 import React from "react";
-import data from "./data";
 
 function Card(props) {
   let badgeText;
